@@ -5,10 +5,12 @@ A comprehensive reference for Create, Read, Update, and Delete operations in SQL
 ---
 
 ## Table of Contents
-1. [CREATE Operations](#create-operations)
-2. [READ Operations](#read-operations)
-3. [UPDATE Operations](#update-operations)
-4. [DELETE Operations](#delete-operations)
+1. [Database Relationships](#database-relationships)
+2. [CREATE Operations](#create-operations)
+3. [READ Operations](#read-operations)
+4. [Connecting Tables with JOINs](#connecting-tables-with-joins)
+5. [UPDATE Operations](#update-operations)
+6. [DELETE Operations](#delete-operations)
 
 ---
 
